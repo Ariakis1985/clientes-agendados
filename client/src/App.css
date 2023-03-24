@@ -1,0 +1,31 @@
+.body{
+    background-color: aqua;
+    background-image: url('./image/aires\ acondicionados.jpg');
+    position: absolute;
+    background-size: 80% 90%;
+    width: 100%;
+    height: 100%;
+}
+
+.button{
+    color: white;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: rgba(0, 0, 0, 0.993);
+  width: 120px;
+  height: 35px;
+  margin-left: center;
+  margin: 100px;
+  margin-left: 420px;
+  position: absolute;
+  top: 200px;
+  left: 220px;
+  cursor: pointer;
+  border: 5px solid rgba(3, 86, 100, 0.993);
+  border-radius: 15px;
+}
+
+.title{
+    position: absolute;
+    left: 250px;
+    top: -8px;
+}
